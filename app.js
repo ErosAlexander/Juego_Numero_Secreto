@@ -39,7 +39,7 @@ function limpiarCaja(){
     valorCaja.value = "" ;
 }
 
-//--------------- GENERAR NUMERO SECRETO ---------------
+//--------------- GENERAR NUMERO SECRETO --------------
 
 
 function generarNumeroSecreto(){
